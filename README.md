@@ -33,33 +33,9 @@ Experience the rotating donut! (Add a GIF or video link showcasing the simulatio
 ## How It Works
 Each project in this repository leverages mathematical equations and creative coding techniques to produce unique and interactive visual effects. Whether it’s drawing shapes or simulating 3D objects, these projects highlight the versatility of C++.
 
-## Installation and Usage
-### Prerequisites
+## Prerequisites
 - SDL2 installed on your system (for graphics-based projects).
 - A C++ compiler (e.g., g++, clang++)
-
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/EchoSingh/FunCPP.git
-   cd FunCPP
-   ```
-2. Compile the desired project. For example, to compile the Heart Pumping Animation:
-   ```bash
-   g++ -o heart_animation heart_animation.cpp -lSDL2
-   ```
-3. Run the program:
-   ```bash
-   ./heart_animation
-   ```
-4. For the Donut Simulation, compile and run the corresponding file:
-   ```bash
-   g++ -o donut_simulation donut_simulation.cpp
-   ./donut_simulation
-   ```
-
-## Contributing
-Have a fun project idea? Feel free to fork this repository and add your contributions. Pull requests are welcome!
 
 ## License
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
